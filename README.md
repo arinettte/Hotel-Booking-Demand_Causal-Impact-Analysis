@@ -22,7 +22,7 @@
 
 ---
 
-## 🗂️ Структура проекта
+## Структура проекта
 
 ```
 hotel-causal-impact/
@@ -77,7 +77,7 @@ jupyter notebook Causal_Impact_Analysis.ipynb
 
 ---
 
-## 🔬 Методология
+## Методология
 
 ### Постановка задачи
 
